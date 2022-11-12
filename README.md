@@ -1,4 +1,4 @@
-# Simple Server Monitoring Environment
+# simple-server-monitoring-environment
 
 ## Tech Stack
 
